@@ -21,5 +21,5 @@
     )
 )
 
-(print (primeList '12345))
+(print (primeList '123456789))
 (print (primeList '10))
