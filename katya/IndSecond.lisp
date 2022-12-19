@@ -8,4 +8,4 @@
     )
 )
 
-(print (divisors '20))
+(print (divisors '112))
