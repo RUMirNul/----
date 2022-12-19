@@ -9,4 +9,5 @@
     )
 )
 
+(print (znakper '(1 -2 1 -2 1 -2 1)))
 (print (znakper '(1 -2 1 -2 1 -2 1 1)))

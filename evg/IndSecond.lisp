@@ -12,4 +12,5 @@
     (if (eq 1 (nod x y)) t nil)
 )
 
+(print (simple 7 30))
 (print (simple 13 26))
