@@ -12,4 +12,5 @@
     )
 )
 
+(print (perfect 6))
 (print (perfect 9))

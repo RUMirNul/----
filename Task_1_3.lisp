@@ -10,4 +10,5 @@
     )
 )
 
-(print (lst '(x y @ 1 31)))
+(print (lst '(x y z)))
+(print (lst '()))

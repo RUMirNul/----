@@ -10,4 +10,5 @@
     )
 )
 
+(print (nod 5 10))
 (print (nod 7 19))
