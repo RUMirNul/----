@@ -2,7 +2,7 @@
 import math
 
 def compose(f, g):
-    return lambda x: g(f(x))
+    return lambda x: f(g(x))
 
 func = compose(abs, math.tan)
 print(func(-1))
